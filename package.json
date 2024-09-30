@@ -5,7 +5,7 @@
   "description": "A theme for Visual Studio Code that resembles the new JetBrains Dark UI theme",
   "version": "0.0.2",
   "engines": {
-    "vscode": "^1.91.1"
+    "vscode": "^1.78.0"
   },
   "categories": [
     "Themes"
@@ -15,6 +15,28 @@
     "url": "https://github.com/jimmyn/jetbrains-dark-new-ui.git"
   },
   "license": "MIT",
+  "icon": "icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "new theme",
+    "jetbrains",
+    "new jetbrains theme",
+    "new jetbrains ui theme",
+    "Darcula",
+    "Jetbrains new dark",
+    "webstorm",
+    "Jetbrains dark theme",
+    "intellij",
+    "intellij new dark",
+    "new dark",
+    "jetbrains new dark theme",
+    "jetbrains new ui",
+    "webstorm new dark",
+    "webstorm dark theme",
+    "intellij dark theme"
+  ],
   "contributes": {
     "themes": [
       {
