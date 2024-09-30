@@ -1,0 +1,21 @@
+{
+  "name": "jetbrains-dark-new-ui",
+  "displayName": "JetBrains Dark New UI",
+  "description": "A theme for Visual Studio Code that resembles the new JetBrains Dark UI theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JetBrains Dark New UI",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jetbrains-dark-new-ui.json"
+      }
+    ]
+  }
+}
