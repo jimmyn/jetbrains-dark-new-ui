@@ -1,5 +1,6 @@
 {
   "name": "jetbrains-dark-new-ui",
+  "publisher": "Dmitriy Nevzorov",
   "displayName": "JetBrains Dark New UI",
   "description": "A theme for Visual Studio Code that resembles the new JetBrains Dark UI theme",
   "version": "0.0.1",
@@ -9,6 +10,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimmyn/jetbrains-dark-new-ui.git"
+  },
   "contributes": {
     "themes": [
       {
