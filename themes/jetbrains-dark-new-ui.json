@@ -429,7 +429,10 @@
 				"variable.css",
 				"variable.scss",
 				"variable.other.less",
-				"source.coffee.embedded"
+				"source.coffee.embedded",
+				"support.type.graphql",
+				"support.type.enum.graphql",
+				"support.type.builtin.graphql"
 			],
 			"settings": {
 				"foreground": "#BCBEC4"
@@ -832,7 +835,9 @@
 				"variable.other.property",
 				"entity.other.attribute-name",
 				"meta.object-literal.key",
-				"variable.object.property.ts"
+				"variable.object.property.ts",
+				"constant.character.enum.graphql",
+				"variable.graphql"
 			],
 			"settings": {
 				"foreground": "#C77DBB"
@@ -854,6 +859,12 @@
 			],
 			"settings": {
 				"foreground": "#CF8E6D"
+			}
+		},
+		{
+			"scope": "entity.name.function.directive.graphql",
+			"settings": {
+				"foreground": "#B2AD60"
 			}
 		}
 	]
