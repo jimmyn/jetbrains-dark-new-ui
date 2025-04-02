@@ -232,7 +232,8 @@
 				"variable.language",
 				"constant.character",
 				"constant.other.option",
-				"support.type"
+				"support.type",
+				"variable.key.dotenv"
 			],
 			"settings": {
 				"foreground": "#CF8E6D"
@@ -274,7 +275,8 @@
 				"support.other.parenthesis.regexp",
 				"keyword.other.unit",
 				"punctuation.separator.key-value.html",
-				"meta.tag.attributes keyword.operator.assignment"
+				"meta.tag.attributes keyword.operator.assignment",
+				"property.value.dotenv"
 			],
 			"settings": {
 				"foreground": "#6AAB73"
